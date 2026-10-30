@@ -1,5 +1,9 @@
 ### ¡Hola a todos! Mi nombre es Leyder Ismalej - aka [Leyder5][github] 👋
 
+![GitHub stats](./profile/stats.svg)
+
+![Top Langs](./profile/top-langs.svg)
+
 ## Soy estudiante y desarrollador de Software en formación
 
 - Estos son algunos de los cursos que estoy tomando:
@@ -9,7 +13,6 @@
 ### Contactame!:
 
 [<img align="bottom" alt="Portafolio" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/youtube.svg" />][youtube]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
 <br />
 
@@ -38,46 +41,9 @@ __Cursos:__
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" height="30" />
 <br />
 
----
-
-## 🔎 Mis estadisticas:
-<details>
-    <summary>🔎 Ver</summary>
-
-![Racha de contribuciones](https://streak-stats.demolab.com?user=Leyder5&theme=tokyonight)
-
-![GitHub stats](./profile/stats.svg)
-
-![Top Langs](./profile/top-langs.svg)
-
-
-__Perfil:__
-<br />
-![Stars](https://img.shields.io/github/stars/Leyder5?style=for-the-badge&label=Total%20Stars&color=yellow)
-![Followers](https://img.shields.io/github/followers/Leyder5?style=for-the-badge&label=Followers&color=blue)
-
-__[Portafolio][portafolio]:__
-<br />
-![Commits](https://img.shields.io/github/commit-activity/t/Leyder5/portafolio?style=for-the-badge&label=Commits&color=ff79c6)
-![Contributors](https://img.shields.io/github/contributors/Leyder5/portafolio?style=for-the-badge&label=Contributors&color=8be9fd)
-![Last commit](https://img.shields.io/github/last-commit/Leyder5/portafolio?style=for-the-badge&label=%C3%9Altimo%20commit)
-
-__[Ultimate JavaScript][ultimateJS]:__
-<br />
-![Commits](https://img.shields.io/github/commit-activity/t/Leyder5/ultimate-javascript?style=for-the-badge&label=Commits&color=ff79c6)
-![Top language](https://img.shields.io/github/languages/top/Leyder5/ultimate-javascript?style=for-the-badge&color=f7df1e)
-![Last commit](https://img.shields.io/github/last-commit/Leyder5/ultimate-javascript?style=for-the-badge&label=%C3%9Altimo%20commit)
-
-<br />
-
-</details>
-
 
 [website]: https://leyder5.github.io/portafolio/
 [github]: https://github.com/Leyder5
-[youtube]: https://www.youtube.com/@leyderismalej1939
 [linkedin]: https://www.linkedin.com/in/leyder-ismalej-238aa4194
 [cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/
 [cursoJS]: https://holamundo.io/
-[portafolio]: https://github.com/Leyder5/portafolio
-[ultimateJS]: https://github.com/Leyder5/ultimate-javascript
