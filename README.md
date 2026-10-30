@@ -46,6 +46,11 @@ __Cursos:__
 
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=Leyder5&theme=tokyonight)
 
+![GitHub stats](./profile/stats.svg)
+
+![Top Langs](./profile/top-langs.svg)
+
+
 __Perfil:__
 <br />
 ![Stars](https://img.shields.io/github/stars/Leyder5?style=for-the-badge&label=Total%20Stars&color=yellow)
