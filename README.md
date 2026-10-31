@@ -1,8 +1,6 @@
 ### ¡Hola a todos! Mi nombre es Leyder Ismalej - aka [Leyder5][github] 👋
 
-![GitHub stats](./profile/stats.svg)
-
-![Top Langs](./profile/top-langs.svg)
+[![Website](https://img.shields.io/badge/WEBSITE-VER-brightgreen?style=for-the-badge)][website]
 
 ## Soy estudiante y desarrollador de Software en formación
 
@@ -40,6 +38,20 @@ __Cursos:__
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" height="30" />
 <br />
+
+---
+
+## 🔎 Mis estadisticas:
+<details>
+    <summary>🔎 Ver</summary>
+
+![GitHub stats](./profile/stats.svg)
+
+![Top Langs](./profile/top-langs.svg)
+
+<br />
+
+</details>
 
 
 [website]: https://leyder5.github.io/portafolio/
