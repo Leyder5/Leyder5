@@ -1,6 +1,6 @@
 ### ¡Hola a todos! Mi nombre es Leyder Ismalej - aka [Leyder5][github] 👋
 
-[![Website](https://img.shields.io/badge/WEBSITE-VER-brightgreen?style=for-the-badge)][website]
+[![Website](https://soulmerch.github.io/portafolio/)][website]
 
 ## Soy estudiante y desarrollador de Software en formación
 
