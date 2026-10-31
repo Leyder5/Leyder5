@@ -1,6 +1,6 @@
 ### ¡Hola a todos! Mi nombre es Leyder Ismalej - aka [Leyder5][github] 👋
 
-[![Website](https://soulmerch.github.io/portafolio/)][website]
+[![Website](https://img.shields.io/badge/WEBSITE-VER-brightgreen?style=for-the-badge)][website]
 
 ## Soy estudiante y desarrollador de Software en formación
 
@@ -54,7 +54,7 @@ __Cursos:__
 </details>
 
 
-[website]: https://leyder5.github.io/portafolio/
+[website]: https://soulmerch.github.io/portafolio/
 [github]: https://github.com/Leyder5
 [linkedin]: https://www.linkedin.com/in/leyder-ismalej-238aa4194
 [cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/
